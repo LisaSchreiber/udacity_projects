@@ -1,0 +1,15 @@
+Python Udacity Project: Rock Paper Scissor Game
+
+Requirements for this Udacity project: 
+- Game should follow the rules for this game (eg rock beats scissor)
+- multiple rounds can be played, number of rounds individually set
+- each round tracks the total scroe of the players and shows the final result
+- there should be 4 subclasses of the player class
+(1 plays always rock, 1 chooses randomly, 1 cycles through the three moves and 1 remembers and copies the last move o the opponent)
+- every player has a respective method the returns players moves and an additional method that remembers this information
+- variables are not globally set, rather data is stored in classes and objects
+- code complies with pycodestyle
+- code checks the user's input for validity
+
+Instructions: 
+Open the game, e.g. using git bash and stat to play. The game will aks you for the respective input. you can enter the number of rounds you want to play. Your moves can be: Rock, paper or scissor. Choose however you like. Have fun! 

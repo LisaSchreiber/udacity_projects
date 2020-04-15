@@ -1,0 +1,15 @@
+Python Project: Text-based Adventure game
+
+Requirements for this Udacity project: 
+- The game gives players a description of what's happening, and then asks them for input
+- Something different happens based on the choice the player made
+- The game includes some random factors
+- The game has conditions for winning and losing
+- When the game is over, it asks if the player wants to play again
+- The game validates input of the user
+- the code is refactored
+- the code complies with pycodestyle
+
+Instructions: 
+please open the python file, for example using git Bash and enter your input according to the 
+text appearing. Enjoy :) 

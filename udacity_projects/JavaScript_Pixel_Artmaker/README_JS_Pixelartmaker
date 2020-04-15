@@ -1,0 +1,13 @@
+JavaScript Udacity Project: Pixel Artmaker
+
+Requirements for this Udacity project: 
+- user can create a canvas of individual size
+- user can choose a color and color the pixels in the grids
+- option to reset the grid to original state
+- Udacity provided a CSS and HTML file
+- This JavaScript needs to make use of them
+- Code should be properly formattted and commented
+- code runs errorfree
+
+Instructions: 
+Add an integer number for hight and width and choose a color. Then you are ready to color the pixels.  
